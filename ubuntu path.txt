@@ -1,3 +1,3 @@
-Path: /mnt/c/Users/neilm/Documents/Fantasy Football
+Path: /mnt/c/Users/neilm/Documents/FantasyFootballDraftSupplement
 conda activate fantasyfootball
 python3 draft.py
